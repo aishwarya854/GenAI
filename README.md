@@ -35,7 +35,7 @@ Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI 
 - Designed agentic AI collections system with human-in-loop for escalations.
 - Ethical Guardrails: Bias audits, SHAP explainability, GDPR/FCA compliance.
 
-See full report: [GenAi-EDA.docx](./GenAi-EDA.docx)
+See full report: [GenAi-SummaryReport](./Business_Summary_Report_Aishwarya.pdf)
 
 ## 🚀 Run Locally
 1. Clone repo: `git clone [your-repo-url]`
