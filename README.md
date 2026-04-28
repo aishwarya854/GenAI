@@ -131,7 +131,7 @@ WHERE monthly_income IS NULL;
 - **High debt-to-income ratio**	Customers with DTI >0.4	Debt_to_Income_Ratio, Loan_Balance, Income	Monitor closely; adjust credit limits
   
 > This summary highlights who is most at risk, which variables drive delinquency, and how the Collections team can act (e.g., early intervention, repayment plans, credit limit adjustments).
----
+
 ## Recommendation Framework
 
 Here’s a SMART recommendation framework based on one of the key insights:
