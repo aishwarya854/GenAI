@@ -1,20 +1,54 @@
 # GenAI-Powered EDA for Credit Delinquency Prediction
+###### Tata iQ GenAI Data Analytics simulation
+[![Tata iQ Forage Badge](https://img.shields.io/badge/Forage-Tata%20iQ-blueviolet)](https://www.theforage.com/virtual-internships/prototype/8b8M3nXj9kKqGfJYB/Tata-iQ-GenAI-Powered-Data-Analytics) [![MySQL](https://img.shields.io/badge/MySQL-EDA-orange)](https://www.mysql.com/)
 
-[![Tata iQ Forage Badge](https://img.shields.io/badge/Forage-Tata%20iQ-blueviolet)](https://www.theforage.com/virtual-internships/prototype/8b8M3nXj9kKqGfJYB/Tata-iQ-GenAI-Powered-Data-Analytics)
+## 👋 Hi, I'm Aishwarya Raut  
+
+**Business Analyst | Project Manager | Data Enthusiast**  
+Bridging analytics and project execution with SQL, Power BI, and leadership skills.
+
+  ![AI-Powered Collections Strategy Banner](https://copilot.microsoft.com/th/id/BCO.11415c6f-03b9-4bbb-924f-f289a6967311.png)
+
+
+***“Smart, Fair & Transparent Financial Risk Management powered by Agentic AI."***
 
 ## 🎯 Project Overview
-Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI (ChatGPT/Gemini) for EDA on financial datasets to predict credit card delinquency at Geldium, a fictional lender. Covered data quality checks, risk profiling, predictive modeling frameworks, ethical AI, and automated collections strategy design.
+Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI (ChatGPT/Gemini) for EDA on financial datasets to predict credit card delinquency at Geldium, a fictional lender. Covered data quality checks, risk profiling, predictive modeling frameworks, ethical AI, and automated collections strategy design. 
 
-**Skills Demonstrated**:
+> This project blends analytics and ethical AI to help financial institutions manage risk responsibly. It demonstrates end‑to‑end capability — from data cleaning and modeling to visualization and business strategy — making it ideal for roles in Business Analytics, Data Science, or Project Management.
+
+## 📂 Featured Projects
+### 🔹 [Credit Delinquency Prediction Model](https://github.com/aishwarya854/GenAI)
+- Built predictive pipeline using logistic regression & gradient boosting  
+- Engineered categorical features for payment history codes  
+- Delivered stakeholder‑friendly dashboards with actionable insights  
+
+
+### 🚀 Skills Demonstrated: 
 - Exploratory Data Analysis (EDA) with GenAI assistance
 - Missing data handling (imputation, synthetic generation)
 - Risk factor identification (payment history, credit utilization, DTI)
 - No-code predictive modeling (logistic regression/decision trees)
 - Model evaluation (precision, recall, AUC, bias checks)
 - Responsible AI (fairness, explainability, compliance)
+- <p align ="center">
+    <img src="https://img.shields.io/badge/MySQL-orange" />
+    <img src="https://img.shields.io/badge/AI-Analytics-blue" />
+    <img src="https://img.shields.io/badge/AI-Strategy-darkblue" />
+    <img src="https://img.shields.io/badge/Process Automation-white" />
+    <img src="https://img.shields.io/badge/Data & Analytics-Lightgreen" />
+    <img src="https://img.shields.io/badge/Project Management- darkpink" />
+    <img src="https://img.shields.io/badge/Workflow optimization- grey" />
+    <img src="https://img.shields.io/badge/PowerBI-Dashboards-yellow" />
+    <img src="https://img.shields.io/badge/Python-DataCleaning-green" />
+    <img src="https://img.shields.io/badge/Leadership-TeamSuccess-orange" />
+    </p>
+- GenAI prompting, risk analysis, ethical AI, Analytical Reporting, Business Communication, Data Interpretation, Data Quality Management, Decision Making, Ethical Reasoning, Model Selection, Model Validation, Predictive Analytics, Process Automation, Regulatory Compliance, Strategic Thinking
+
+- **MySQL Focus**: Imported data, ran EDA queries for summaries/stats/missing values, imputed via SQL functions, correlated risks (e.g., high utilization vs. defaults).
 
 ## 📊 Key Findings
-- **Top Delinquency Risks**: High credit utilization (>80%), 2+ missed payments, DTI >0.5 increase default odds 3x.[file:1]
+- **Top Delinquency Risks**: High credit utilization (>80%), 2+ missed payments, DTI >0.5 increase default odds 3x.
 - **Data Handling**: Imputed missing income/payment data via median; generated synthetic records validated against real distributions.
 - **Patterns**: Correlations between low income and late payments; anomalies like high credit scores with misses flagged.
 
@@ -25,37 +59,13 @@ Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI 
 | DTI Ratio | Medium-high | Imputation (median) |
 
 ## 🛠 Tech Stack
-- **GenAI Tools**: ChatGPT, Google Gemini for prompts (e.g., "Summarize missing values & suggest imputation")
+- **GenAI Tools**: ChatGPT, Microsoft Copilot, Google Gemini for prompts (e.g., "Summarize missing values & suggest imputation")
 - **Analytics**: Conceptual SQL/Pandas for EDA; no-code modeling pipelines
-- **Notebooks**: [link-to-notebooks] (EDA.ipynb, Modeling.ipynb)
 
-## 📈 Results & Next Steps
-- Proposed logistic regression for interpretable predictions (AUC target >0.8).
-- Designed agentic AI collections system with human-in-loop for escalations.
-- Ethical Guardrails: Bias audits, SHAP explainability, GDPR/FCA compliance.
-
-See full report: [GenAi-SummaryReport](./Business_Summary_Report_Aishwarya.pdf)
-
-## 🚀 Run Locally
-1. Clone repo: `git clone [your-repo-url]`
-2. Install: `pip install -r requirements.txt` (pandas, plotly, etc.)
-3. EDA: `My SQL-Workbench`
+See report: [GenAi-SummaryReport](./Business_Summary_Report_Aishwarya.pdf)
 
 ## Why This Matters
 Showcases end-to-end analytics for fintech: From raw data to AI strategy. Ideal for data analyst/consulting roles in SQL, BI tools (Tableau/Power BI), and AI ethics.
-
-**Connect**: [LinkedIn]() | [Portfolio]()
-
-# GenAI-Powered MySQL EDA: Credit Delinquency Prediction
-
-[![Tata iQ Forage](https://img.shields.io/badge/Forage-Tata%20iQ-blueviolet)][forage-link] [![MySQL](https://img.shields.io/badge/MySQL-EDA-orange)](https://www.mysql.com/)
-
-## 🎯 Overview
-Tata iQ GenAI Data Analytics simulation (Apr 2026): Used **MySQL** + GenAI (ChatGPT/Gemini) for EDA on Geldium's credit card dataset (~500 records). Analyzed delinquency risks, cleaned data, profiled customers, and prepped for modeling (logistic regression/decision trees). [Full report](./GenAi-EDA.docx)[file:1]
-
-**MySQL Focus**: Imported data, ran EDA queries for summaries/stats/missing values, imputed via SQL functions, correlated risks (e.g., high utilization vs. defaults).[web:11]
-
-**Skills**: SQL (aggregation, window functions, CTEs), GenAI prompting, risk analysis, ethical AI.
 
 ## 📊 Dataset & Insights
 - **Source**: Geldium customer data (income, credit limit/utilization, payments x6 months, delinquency status).[web:6]
@@ -103,14 +113,11 @@ WHERE monthly_income IS NULL;
   3. `source eda_queries.sql`
   4. Visualize: Export to CSV → Power BI/Tableau
 
-**Requirements**: MySQL 8+, sample data from UCI Credit Card Default (adaptable).[web:2]
-
 ## 📈 Outcomes
 - Handled missingness (impute/drop/synthetic via GenAI).
 - Modeled ethically: Precision/recall focus, bias checks.
 - Business Impact: Proactive collections via risk scores.
 
-## Business Summary Report: Predictive Insights for Collections Strategy
 
 ## Summary of Predictive Insights
 
@@ -119,18 +126,21 @@ WHERE monthly_income IS NULL;
 - **Meaningful patterns**: Customers with stable employment and lower debt ratios tend to remain on time, while those with frequent late/missed payments quickly escalate into high risk categories. Location clusters (e.g., Phoenix, Chicago) show higher delinquency rates compared to other cities.
   
 ## Key Insight	Customer Segment	Influencing Variables	Potential Impact
-- High utilization + low credit score	Customers with >70% utilization and scores <400	Credit_Utilization, Credit_Score	Flag early for proactive outreach
-- Multiple missed payments	Unemployed/Student groups with repeated missed payments	Month_1–Month_6 history, Missed_Payments	Prioritize repayment plans or counseling
-- High debt-to-income ratio	Customers with DTI >0.4	Debt_to_Income_Ratio, Loan_Balance, Income	Monitor closely; adjust credit limits
+- **High utilization + low credit score**	Customers with >70% utilization and scores <400	Credit_Utilization, Credit_Score	Flag early for proactive outreach
+- **Multiple missed payments**	Unemployed/Student groups with repeated missed payments	Month_1–Month_6 history, Missed_Payments	Prioritize repayment plans or counseling
+- **High debt-to-income ratio**	Customers with DTI >0.4	Debt_to_Income_Ratio, Loan_Balance, Income	Monitor closely; adjust credit limits
   
-This summary highlights who is most at risk, which variables drive delinquency, and how the Collections team can act (e.g., early intervention, repayment plans, credit limit adjustments).
-
+> This summary highlights who is most at risk, which variables drive delinquency, and how the Collections team can act (e.g., early intervention, repayment plans, credit limit adjustments).
+---
 ## Recommendation Framework
-Here’s a SMART recommendation framework based on one of the key insights:
-- Restated Insight: 
-Customers with high credit utilization (>70%) are significantly more likely to become delinquent.
 
-- Proposed Recommendation: Introduce a credit utilization monitoring program that proactively flags and supports customers whose utilization exceeds 70%.
+Here’s a SMART recommendation framework based on one of the key insights:
+- *Restated Insight*:
+ <p align = "center">
+   "Customers with high credit utilization (>70%) are significantly more likely to become delinquent"
+  </p> 
+
+- *Proposed Recommendation*: Introduce a credit utilization monitoring program that proactively flags and supports customers whose utilization exceeds 70%.
 
 **SMART Breakdown**
 
@@ -161,7 +171,17 @@ Fairness Risks and Mitigation
 -	**Data Privacy**: Customer data is used responsibly, with strict access controls.
 -	**Ethical Impact**: Recommendations support proactive outreach and repayment assistance, not automatic denial of credit.
 
-This approach ensures the model is accurate, fair, and explainable, while aligning with Geldium’s business goals and regulatory requirements. By combining fairness checks, transparent communication, and responsible use of customer data, Geldium can build trust with both customers and regulators while reducing delinquency risk.
+> This approach ensures the model is accurate, fair, and explainable, while aligning with Geldium’s business goals and regulatory requirements. By combining fairness checks, transparent communication, and responsible use of customer data, Geldium can build trust with both customers and regulators while reducing delinquency risk.
 
+## 📈 Results & Next Steps
+- Proposed logistic regression for interpretable predictions (AUC target >0.8).
+- Designed agentic AI collections system with human-in-loop for escalations.
+- Ethical Guardrails: Bias audits, SHAP explainability, GDPR/FCA compliance.
 
+## 📫 Connect With Me
+  [![Gmail](https://img.shields.io/badge/Gmail-red)](https://a.raut.works@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/aishwaryaraut) 
+  [![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-darkgrey)](https://github.com/aishwarya854)
+
+⭐
 
