@@ -62,8 +62,11 @@ Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI 
 - **GenAI Tools**: ChatGPT, Microsoft Copilot, Google Gemini for prompts (e.g., "Summarize missing values & suggest imputation")
 - **Analytics**: Conceptual SQL/Pandas for EDA; no-code modeling pipelines
 
-See report: [GenAi-SummaryReport](./Business_Summary_Report_Aishwarya.pdf)
-- [ppt](https://github.com/aishwarya854/GenAI/blob/main/GenAiPresentation_Aishwarya.pptx)
+See report: [GenAi-SummaryReport](./Business_Summary_Report_Aishwarya.pdf) [ppt](https://github.com/aishwarya854/GenAI/blob/main/GenAiPresentation_Aishwarya.pptx) ⬅️*Click this link*
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/Report -grey" /> 
+  <img src="https://img.shields.io/badge/Presentation - teal" /> 
+</p>
 
 ## Why This Matters
 Showcases end-to-end analytics for fintech: From raw data to AI strategy. Ideal for data analyst/consulting roles in SQL, BI tools (Tableau/Power BI), and AI ethics.
@@ -103,8 +106,12 @@ SET monthly_income = (
 )
 WHERE monthly_income IS NULL;
 ```
-[Full queries](./eda_queries.sql)[Delinquent_prediction](./Delinquent_prediction.sql) [trend](./trend.sql)
-
+Full Queries/ Guide: [Imputation Guide](./Imputation_Guide_Handout.docx)[Delinquent_prediction](./Delinquent_prediction.sql) [trend](./trend.sql) ⬅️ ***Click this Links***
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/Imputation Guide -orange" /> 
+  <img src="https://img.shields.io/badge/Delinquent Pediction dataset - grey" /> 
+  <img src="https://img.shields.io/badge/trend datatset - yellow" /> 
+</p>
 ## 🛠 Stack & Setup
 - **MySQL**: Data import/cleaning/EDA (Workbench preferred for your setup)
 - **GenAI**: Prompts for insights (e.g., "Analyze MySQL output for delinquency trends")
