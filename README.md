@@ -18,7 +18,7 @@ Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI 
 > This project blends analytics and ethical AI to help financial institutions manage risk responsibly. It demonstrates end‑to‑end capability — from data cleaning and modeling to visualization and business strategy — making it ideal for roles in Business Analytics, Data Science, or Project Management.
 
 ## 📂 Featured Projects
-### 🔹 [Credit Delinquency Prediction Model](https://github.com/aishwarya854/GenAI)
+### 🔹 [Credit Delinquency Prediction Model](https://github.com/aishwarya854/GenAI/blob/main/GenAiPresentation_Aishwarya.pptx) 
 - Built predictive pipeline using logistic regression & gradient boosting  
 - Engineered categorical features for payment history codes  
 - Delivered stakeholder‑friendly dashboards with actionable insights  
@@ -68,7 +68,7 @@ See report: [GenAi-SummaryReport](./Business_Summary_Report_Aishwarya.pdf)
 Showcases end-to-end analytics for fintech: From raw data to AI strategy. Ideal for data analyst/consulting roles in SQL, BI tools (Tableau/Power BI), and AI ethics.
 
 ## 📊 Dataset & Insights
-- **Source**: Geldium customer data (income, credit limit/utilization, payments x6 months, delinquency status).[web:6]
+- **Source**: Geldium customer data (income, credit limit/utilization, payments x6 months, delinquency status).[Data](./Delinquency_prediction_dataset.xlsx)
 - **Key Stats** (from MySQL queries):
   | Metric | Value | Insight |
   |--------|-------|---------|
