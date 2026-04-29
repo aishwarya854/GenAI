@@ -18,7 +18,7 @@ Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI 
 > This project blends analytics and ethical AI to help financial institutions manage risk responsibly. It demonstrates end‑to‑end capability — from data cleaning and modeling to visualization and business strategy — making it ideal for roles in Business Analytics, Data Science, or Project Management.
 
 ## 📂 Featured Projects
-### 🔹 [Credit Delinquency Prediction Model](https://github.com/aishwarya854/GenAI/blob/main/GenAiPresentation_Aishwarya.pptx) 
+### 🔹 [Credit Delinquency Prediction Model]
 - Built predictive pipeline using logistic regression & gradient boosting  
 - Engineered categorical features for payment history codes  
 - Delivered stakeholder‑friendly dashboards with actionable insights  
@@ -63,6 +63,7 @@ Completed Tata iQ's GenAI Data Analytics simulation (April 2026). Applied GenAI 
 - **Analytics**: Conceptual SQL/Pandas for EDA; no-code modeling pipelines
 
 See report: [GenAi-SummaryReport](./Business_Summary_Report_Aishwarya.pdf)
+- [ppt](https://github.com/aishwarya854/GenAI/blob/main/GenAiPresentation_Aishwarya.pptx)
 
 ## Why This Matters
 Showcases end-to-end analytics for fintech: From raw data to AI strategy. Ideal for data analyst/consulting roles in SQL, BI tools (Tableau/Power BI), and AI ethics.
@@ -102,7 +103,7 @@ SET monthly_income = (
 )
 WHERE monthly_income IS NULL;
 ```
-[Full queries](./eda_queries.sql)[Delinquent_prediction][trend]
+[Full queries](./eda_queries.sql)[Delinquent_prediction](./Delinquent_prediction.sql) [trend](./trend.sql)
 
 ## 🛠 Stack & Setup
 - **MySQL**: Data import/cleaning/EDA (Workbench preferred for your setup)
